@@ -1,7 +1,16 @@
-# ruby-course
-Learn Ruby with GitHub
+# Where you start your learning journey
 
-Let's Use If/Else Statements to Find Out Ruby's Favorite Color
-This repository will help you learn the fundamentals of If/Else statements in Ruby.
+This repository is for:
 
-When completed, you'll have a program that asks for your favorite color, and replies with a specific response depending on your input.
+Discuss and help you achieve your 14days goals
+Tracking and talking about your daily achievement
+Getting help from the community
+Action required
+⚠️ Navigate to the issues tab and start working on the task
+🤵🙋🏿 When you get stuck, tag /raisehand for help in the comment session with the deatils of the issue
+✨ check the task as you complete them
+👍 Tell us how the experience was and what you learnt
+
+✅ Close the issue
+
+Done!
