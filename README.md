@@ -6,8 +6,7 @@ This repository is for:
 - Tracking and talking about your daily achievement
 - Getting help from the community
 
-## 
-- Action required
+## Action required
 - ⚠️ Navigate to the issues tab and start working on the task
 - 🤵🙋🏿 When you get stuck, tag /raisehand for help in the comment session with the deatils of the issue
 - ✨ check the task as you complete them
